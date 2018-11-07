@@ -343,7 +343,6 @@ public class DefaultController {
 
 ![](https://ws1.sinaimg.cn/large/006tKfTcgy1fpkgcg2ykuj30cm037dg5.jpg)
 
-需要源码请移步本人github，如果能顺手star就更好啦! [boot-dubbo](https://github.com/LuoLiangDSGA/SpringBoot-Learning/tree/master/boot-dubbo)，[下一篇](https://luoliangdsga.github.io/2018/06/10/使用Docker容器化SpringBoot-Dubbo应用的实践/)博客接这篇博客，学习使用Docker容器化SpringBoot+Dubbo应用。
 
 ### 参考
 * https://github.com/apache/incubator-dubbo-spring-boot-project
